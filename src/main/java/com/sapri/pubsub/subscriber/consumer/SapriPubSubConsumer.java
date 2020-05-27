@@ -13,7 +13,7 @@ public class SapriPubSubConsumer extends PubSubConsumer {
 
 	@Override
 	public String subscription() {
-		return "hello-pubsub-subscription";
+		return "soaninha-product-sub-fail";
 	}
 
 	@Override
